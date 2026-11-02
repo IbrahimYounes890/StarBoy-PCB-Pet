@@ -5,7 +5,7 @@
 
 This is my Starbie-inspired PCB pet project --> LEAFIE!
 
-LEAFIE is a tiny motion-controlled digital pet, created using Starbie's guide on GitHub. He too is also a pet that is controlled by motion rather than using controls.
+LEAFIE is a tiny motion-controlled digital pet, created using Starbie's guide on GitHub. He is also a pet that is controlled by motion rather than using controls.
 
 ## What is it?
 
@@ -33,15 +33,15 @@ Currently, PCB files are complete, and firmware is ready, waiting for the projec
 | :--- | :--- | :---: | :---: | :---: | :--- | :--- |
 | **DHT11 Digital Temp & Humidity Sensor Module** | Environmental Sensor For Pet | 1 | $2.31 | $2.31 | AliExpress | [View Link](https://www.aliexpress.com/item/1005008818897051.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+2.32%21USD+2.18%21%21USD+2.18%21%21%21%402101e75417935899983408413e1096%2112000046802736832%21ct%21CA%218284808141%21%211%210%21) |
 | **ESP 32 - C3 Mini** | For controlling the brain | 1 | $5.52 | $5.52 | AliExpress | [View Link](https://www.aliexpress.com/item/1005007239162635.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+18.52%21USD+4.58%21%21USD+4.58%21%21%21%402101e75417935899983408413e1096%2112000039916348342%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
-| **Resistors** | Resistors for project | 300 | ? | $1.19 | AliExpress |[View Link](https://www.aliexpress.com/item/1005011772534173.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+4.20%21USD+1.19%21%21USD+1.19%21%21%21%402101e75417935899983408413e1096%2112000056500803485%21ct%21CA%218284808141%21%211%210%21)|
+| **Resistors (comes with mutliple values)** | Resistors for project | 300 | ? | $1.19 | AliExpress |[View Link](https://www.aliexpress.com/item/1005011772534173.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+4.20%21USD+1.19%21%21USD+1.19%21%21%21%402101e75417935899983408413e1096%2112000056500803485%21ct%21CA%218284808141%21%211%210%21)|
 | **Switches** | For switches input to pet | 10 | ? | $1.19 | AliExpress | [View Link](https://www.aliexpress.com/item/1005008089864080.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+4.13%21USD+4.13%21%21USD+4.13%21%21%21%402101e75417935899983408413e1096%2112000045838677521%21ct%21CA%218284808141%21%211%210%21) |
-| **MPU6050 Module 6 Axis IMU** | For the motion control | 1 | $1.66 | $1.66 | AliExpress | [View Link](https://www.aliexpress.com/item/1005007989748804.html?spm=a2g0o.cart.0.0.71f338dapXPrZD&mp=1&pdp_npi=6%40dis%21USD%21USD+1.86%21USD+1.40%21%21USD+1.40%21%21%21%402101e75417935899983408413e1096%2112000046422332178%21ct%21CA%218284808141%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22pdpBusinessMode%22%3A%22retail%22%7D%7D) |
-| **LEAFIE PCB** | PCB for project | 1 | $6.10 | $6.10 | JLCPCB | [View Link](https://jlcpcb.com) |
+| **MPU6050 Module 6 Axis IMU** | For the motion control | 1 | $2.78 | $1.66 | AliExpress | [View Link](https://www.aliexpress.com/item/1005012722676424.html?spm=a2g0o.cart.0.0.3fcc38da5d1nRa&mp=1&pdp_npi=6%40dis%21USD%21USD+3.57%21USD+2.78%21%21USD+2.78%21%21%21%4021032e4e17935918278648994e0ece%2112000059167286842%21ct%21CA%218284808141%21%211%210%21) |
+| **LEAFIE PCB** | PCB for project | 1 | free with coupon| $0 | JLCPCB | [View Link](https://jlcpcb.com) |
 | **0.96 OLED** | Visual output | 1 | $4.16 | $4.16 | AliExpress | [View Link](http://aliexpress.com/item/1005006141235306.html?spm=a2g0o.cart.0.0.710b38daroD91k&mp=1&pdp_npi=6%40dis%21USD%21USD+4.16%21USD+4.16%21%21USD+4.16%21%21%21%4021030cd817935910208061059e0f72%2112000037894450874%21ct%21CA%218284808141%21%211%210%21)|
 
-* **Parts Subtotal:** $17.97
-* **Tax & Shipping:** $11.93
-* **Total Estimated Cost:** **$29.90**
+* **Parts Subtotal:** $19.02
+* **Tax & Shipping:** $4.39
+* **Total Estimated Cost:** **$23.41**
 
   
 ## Repository contents
