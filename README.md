@@ -16,6 +16,9 @@ It includes a microcontroller, display, motion sensor, and environmental sensor 
 
 I used the beginner [Starbie project](https://halflife.hackclub.com/) for the exact components and firmware. But I took creative liberties when designing the board itself. I decided to use a maple leaf, and I had to change up a few of the connections to make my PCB flow better.
 
+<img width="1667" height="973" alt="image" src="https://github.com/user-attachments/assets/7c6fdf2c-3335-4c5c-ab27-c919dbdf705e" />
+
+
 ## Why was it designed this way?
 
 I chose the PCB design to look like a maple leaf, and added Canadian-themed symbols all over the back and front to show my love for my country Canada. I am a proud Canadian and thought this was a very cool idea to showcase my spirit!
